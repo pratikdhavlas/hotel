@@ -1,2 +1,2 @@
-# hotel
-our hotel website
+# index
+our index website
